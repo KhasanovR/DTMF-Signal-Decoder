@@ -24,6 +24,6 @@ Reference: [Link](https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signal
 
 ### The materials attached:
 
-1. The source file recorded : “Project1_v1.wav”
+1. The source files recorded : “Project1_v1.wav”, “Project1_v2.wav”, “Project1_v3.wav”, “Project1_v4.wav”
 2. Once you have Fourier Transformed the signal try to understand what each bin in X axis represents (Frequency, Hz) and learn how to calculate it. It will help you to plot with correct values in X-axis.
 3. Keep in mind that the peak frequencies might be ±1~4 Hz from the center frequencies from DTMF table above due to noise.
