@@ -20,7 +20,6 @@ Reference: [Link](https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signal
 2. You can analyze the signal piece by piece by separating between numbers dialed (The DTMF signal will usually begin and end with a period of silence. In addition, each DTMF digit in the sequence is separated by silences. So use silence to your advantage)
 3. Once you decode the signal you should report what number was dialed  
 4. Make software that can decode any given signal automatically into phone numbers (I will give different signal and it should correctly decode it)
-5. Make presentation and explain about how you did, what equations you’ve used, what kind of filter you’ve designed and etc.
 
 ### The materials attached:
 
